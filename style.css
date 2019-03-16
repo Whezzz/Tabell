@@ -1,0 +1,15 @@
+.scale{
+	height: 256px;
+}
+.center{
+	text-align: center;
+}
+.bar1{
+	background-color: rgb(229,35,61) !important;
+}
+.bar2{
+	background-color: rgb(221,167,58) !important;
+}
+.bar3{
+	background-color: rgb(76,161,70) !important;
+}
